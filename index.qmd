@@ -1,0 +1,41 @@
+---
+toc: false
+about:
+  template: trestles
+  image: ktwiener.png
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/catiewiener/
+      target: _blank
+    - icon: github
+      text: Github
+      href: https://github.com/ktwiener
+      target: _blank
+    - text: Email
+      href: mailto:catiewien@gmail.com
+      icon: envelope
+      target: _blank
+    
+---
+
+## About
+
+Catie Wiener is an Epidemiology student at the University of North Carolina at Chapel Hill. She works at the intersection of pharmacoepidemiology and HIV research. 
+
+## Education
+
+**University of North Carolina at Chapel Hill** 
+
+PhD Epidemiology | August 2022 - present
+
+MS Biostatistics | August 2017 - May 2019
+
+BS Mathematics | August 2010 - August 2014
+
+
+## Experience
+
+**Target RWE** | Senior Statistician | June 2019 - August 2022
+
+**Quintiles** | Statistical Programmer | August 2014 - July 2017
