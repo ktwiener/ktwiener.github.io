@@ -7,7 +7,7 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: Wiener_CV_apr25.pdf
+      - href: Wiener_CV_apr26.pdf
         text: CV
 
 format:
