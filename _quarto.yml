@@ -7,6 +7,8 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: https://ktwiener.github.io/ps-workshop-2026/
+        text: PS Workshop
       - href: Wiener_CV_apr26.pdf
         text: CV
 
